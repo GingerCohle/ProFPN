@@ -7,7 +7,7 @@
 
 #### Updates
 
-$\bullet$ (21/12/2022) Code is released.
+$\bullet$ (21/12/2022) Core code is released.
 
 #### Performance
 
