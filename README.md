@@ -27,6 +27,7 @@ Upload Soon!!!
 #### Getting Started
 
 The installation instruction and usage are in [MMdetection](https://github.com/open-mmlab/mmdetection/blob/master/docs/en/get_started.md).
+If you want to tran adn evaluate ProFPN, please add profpn.py to mmdet/neck and add register in mmdet/neck/__init__.py. Then replace mmdet/models/roi_heads/roi_extractors/single_level_roi_extractor.py with our SPA. Finally, rename soft_proposal_assignment.py with single_level_roi_extractor.py.
 
 #### License
 
