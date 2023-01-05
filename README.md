@@ -22,7 +22,7 @@ $\bullet$ (22/12/2022) Old version code and inference model is released.
 ![image-20221221180850282](https://user-images.githubusercontent.com/37873318/208881275-f30c22a8-c9d4-4f63-a098-4b8f6ef6edb0.png)
 #### Model Evaluation
 
-Old version code and model pth uploaded!!! The old version code and pth is paired, which are equivalent to the new version.You can inference based on old version code, I have comment each part in the old version code.
+Old version code and model pth uploaded!!! The old version code and pth are paired, which are equivalent to the new version.You can inference based on old version code, I have comment each part in the old version code.
 
 The pth link has been upload to https://pan.baidu.com/s/1HATOK4Wx6swjmnW4hwIK9Q?pwd=pi8e extract_code: pi8e.
 
