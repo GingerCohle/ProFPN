@@ -1,4 +1,4 @@
-## ProFPN: Progressive Feature Pyramid Network with Soft Proposal Assignment for Object Detection
+## ProFPN: Progressive Feature Pyramid Network with Soft Proposal Assignment for Object Detection (Knowledge Based System Early Access 2024)
 
 #### This is the official repo of ProFPN and soft proposal assignment.
 
