@@ -32,7 +32,15 @@ Upload Soon!!!
 
 The installation instruction and usage are in [MMdetection](https://github.com/open-mmlab/mmdetection/blob/master/docs/en/get_started.md).
 If you want to tran adn evaluate ProFPN, please add profpn.py to mmdet/neck and add register in mmdet/neck/__init__.py. Then replace mmdet/models/roi_heads/roi_extractors/single_level_roi_extractor.py with our SPA. Finally, rename soft_proposal_assignment.py with single_level_roi_extractor.py.
-
+#### Citation
+@article{ke2024profpn,
+  title={ProFPN: Progressive feature pyramid network with soft proposal assignment for object detection},
+  author={Ke, Junjie and He, Lihuo and Han, Bo and Li, Jie and Gao, Xinbo},
+  journal={Knowledge-Based Systems},
+  pages={112078},
+  year={2024},
+  publisher={Elsevier}
+}
 #### License
 
 This project is under the CC-BY-NC 4.0 license. See [LICENSE](https://github.com/GingerCohle/ProFPN/blob/main/LICENSE.md) for details.
